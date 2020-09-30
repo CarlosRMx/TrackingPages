@@ -13,7 +13,9 @@ http://127.0.0.1:8000/administration/
 Las Reportes a los que tiene acceso el administrador están en las siguientes URL’s
 Reportes
 http://127.0.0.1:8000/total_w_packages/
+
 http://127.0.0.1:8000/total_t_packages/
+
 http://127.0.0.1:8000/total_d_packages/
 
 total de paquetes, en bodega, tránsito, entregados
